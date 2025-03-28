@@ -1,5 +1,5 @@
 - @nyxsx
 - New user in github !
-- I will share with you my tips to optimizing my windows.
+- I will share with you my scripts to optimize windows and scripts for some applications (bot, etc.).
 
-PS : ALL TOOLS DOSEN'T CREATED BY ME. I JUST EXPLOITING A LOT OF TOOLS WITH BETTER SETTINGS !
+  PS : Half of the tools to optimize Windows are not created by me, except for a few, I use other people's scripts and I give you the best possible combinations!
