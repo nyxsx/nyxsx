@@ -1,5 +1,37 @@
-- @nyxsx
-- New user in github !
-- I will share with you my scripts to optimize windows and scripts for some applications (bot, etc.).
+<!-- Welcome Banner -->
+<p align="center">
+ <!-- <img src="https://i.imgur.com/your-banner.png" alt="Welcome Banner" width="800"/> !-->
+</p>
 
-  PS : Half of the tools to optimize Windows are not created by me, except for a few, I use other people's scripts and I give you the best possible combinations!
+<h1 align="center">Hi, I'm @nyxsx 👋</h1>
+<p align="center">Scripts & Tools for Windows Optimization and Applications</p>
+
+---
+
+## 🛠️ About Me
+
+I share **Windows optimization scripts** and **scripts for bots and applications**.  
+Some scripts are original, while others are curated combinations of publicly available scripts, chosen for **maximum performance and productivity**.
+
+> ⚠️ Note: Some Windows optimization scripts are not my creation, but I have combined the best ones and added my own improvements.
+
+---
+
+## 📂 Repository Content
+
+| Category | Description | Image |
+|----------|-------------|-------|
+| **Windows Optimization** | Cleanup, services, performance, privacy tweaks | ![Windows]() |
+| **Applications & Bots** | Scripts to automate apps and bots | ![Bots]() |
+| **My Original Scripts** | Custom scripts I personally developed | ![Code]() |
+
+---
+
+## ⚡ Features
+
+- ✅ Combined scripts for maximum efficiency  
+- ✅ Easy to customize for your needs  
+- ✅ Clear documentation for each script  
+- ✅ Regular updates with new optimizations  
+
+---
