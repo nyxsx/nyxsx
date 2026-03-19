@@ -19,11 +19,10 @@ Some scripts are original, while others are curated combinations of publicly ava
 
 ## 📂 Repository Content
 
-| Category | Description | Image |
+| Category | Description |
 |----------|-------------|-------|
-| **Windows Optimization** | Cleanup, services, performance, privacy tweaks | ![Windows]() |
-| **Applications & Bots** | Scripts to automate apps and bots | ![Bots]() |
-| **My Original Scripts** | Custom scripts I personally developed | ![Code]() |
+| **Windows Optimization** | Cleanup, services, performance, privacy tweaks 
+| **Applications & Bots** | Scripts to automate apps and bots |
 
 ---
 
